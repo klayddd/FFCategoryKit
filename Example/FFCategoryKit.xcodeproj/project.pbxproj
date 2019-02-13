@@ -499,6 +499,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 8B0239F9EA23359D6A8CAA82 /* Pods-FFCategoryKit_Example.debug.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 6XFMJ2CZ69;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -517,6 +518,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 90EDE3F63033DDED5292A461 /* Pods-FFCategoryKit_Example.release.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 6XFMJ2CZ69;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
