@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
                            分类组件化
                        DESC
 
-  s.homepage         = 'https://github.com/klayddd/FFCategoryKit.git'
+  s.homepage         = 'https://github.com/klayddd/FFCategoryKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'klay' => '393304520@qq.com' }
