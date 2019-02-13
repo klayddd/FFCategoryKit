@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'FFCategoryKit/Classes/**/*'
+  s.source_files = 'FFCategoryKit/*'
   
   # s.resource_bundles = {
   #   'FFCategoryKit' => ['FFCategoryKit/Assets/*.png']
