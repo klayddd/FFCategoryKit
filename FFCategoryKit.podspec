@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-                           分类组件化
+  TODO:组件化
                        DESC
 
   s.homepage         = 'https://github.com/klayddd/FFCategoryKit'
@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'FFCategoryKit/*'
+  s.source_files = 'FFCategoryKit/Classes/category/*.{h,m}'
   
   # s.resource_bundles = {
   #   'FFCategoryKit' => ['FFCategoryKit/Assets/*.png']
