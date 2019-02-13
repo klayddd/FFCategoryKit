@@ -30,10 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.subspec 'Api' do |ss|
-      ss.source_files = 'FFCategoryKit/Classes/category/*.{h,m}'
-  end
-  #s.source_files = 'FFCategoryKit/Classes/**/*'
+  s.source_files = 'FFCategoryKit/Classes/category/*.{h,m}'
   
   # s.resource_bundles = {
   #   'FFCategoryKit' => ['FFCategoryKit/Assets/*.png']
