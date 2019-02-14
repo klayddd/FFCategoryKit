@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'FFCategoryKit/Classes/**/*'
+  s.source_files = 'Pod/Classes/**/*'
   
   # s.resource_bundles = {
   #   'FFCategoryKit' => ['FFCategoryKit/Assets/*.png']
