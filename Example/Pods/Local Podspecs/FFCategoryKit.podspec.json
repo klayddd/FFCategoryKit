@@ -3,16 +3,16 @@
   "version": "0.1.0",
   "summary": "A short description of FFCategoryKit.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/陈文杰/FFCategoryKit",
+  "homepage": "https://github.com/klayddd/FFCategoryKit",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "陈文杰": "393304520@qq.com"
+    "klay": "393304520@qq.com"
   },
   "source": {
-    "git": "https://github.com/陈文杰/FFCategoryKit.git",
+    "git": "https://github.com/klayddd/FFCategoryKit.git",
     "tag": "0.1.0"
   },
   "platforms": {
