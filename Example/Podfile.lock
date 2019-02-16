@@ -1,5 +1,5 @@
 PODS:
-  - FFCategoryKit (0.2.0)
+  - FFCategoryKit (0.4.0)
 
 DEPENDENCIES:
   - FFCategoryKit (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  FFCategoryKit: 86adfc45593e43e59f8b15fea3b9386f698affaa
+  FFCategoryKit: 95240e08c46bb0e5e931eec153f0d779553dd08e
 
 PODFILE CHECKSUM: a97fcc9a1040c05b6f771a27c14ef9d151bbb815
 
